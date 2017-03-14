@@ -3,4 +3,6 @@
 ##预览图
 ![](https://github.com/ChenHuangGitHub/OGApp/blob/master/Pic/1.gif)
 ##工程目录
-![](https://github.com/ChenHuangGitHub/OGApp/blob/master/Pic/2.png)
+###项目目录的分层如下所示：
+![](https://github.com/ChenHuangGitHub/OGApp/blob/master/Pic/2.png)  
+![](https://github.com/ChenHuangGitHub/OGApp/blob/master/Pic/3.png)
